@@ -1,0 +1,5 @@
+com\example\syncfusionreports1\model\Report.class
+com\example\syncfusionreports1\service\ReportService.class
+com\example\syncfusionreports1\Syncfusionreports1Application.class
+com\example\syncfusionreports1\controller\ReportController.class
+com\example\syncfusionreports1\repository\ReportRepository.class
